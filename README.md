@@ -34,10 +34,11 @@ This project is an AI-powered chatbot that supports *text, **voice, and **video*
 git clone https://github.com/yourusername/mental-health-chatbot.git
 cd mental-health-chatbot
 
+```bash
 ## 🧩 Install Requirements
 pip install -r requirements.txt
 
-
+```bash
 ## Usage
 python app.py 
 
